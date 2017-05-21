@@ -1,2 +1,2 @@
 # hello-world
-Inaugural project. Time-honored  programming tradition.
+Inaugural project. Hello World programming tradition.
